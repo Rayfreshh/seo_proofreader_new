@@ -12,10 +12,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Reports (optional)
-*.md
-!README.md
-
 # IDE
 .vscode/
 .idea/
